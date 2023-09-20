@@ -1,0 +1,14 @@
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.exe.config
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.exe
+D:\Проекты C#\labaform3\labaform3\bin\Debug\labaform3.pdb
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.AssemblyReference.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Form1.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Otzivi.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Properties.Resources.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.GenerateResource.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.csproj.CoreCompileInputs.cache
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.exe
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.pdb
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Autorizacia.resources
+D:\Проекты C#\labaform3\labaform3\obj\Debug\labaform3.Regictrasia.resources
